@@ -150,7 +150,7 @@ main{
 }
 b, h5{
     margin: 0%;
-    padding: 0%;
+    padding: 5px;
 }
 .logo-envio {
     display: block;
